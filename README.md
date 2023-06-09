@@ -12,7 +12,6 @@ Para executar este exercício, você pode criar uma nova aplicação React, util
 
 Caso queira criar uma nova aplicação React, basta copiar os conteúdos deste repositório e colar dentro da pasta do seu projeto criado.
 
-
 # Exercício 1
 
 Primeiro, vamos analisar todo o código que vocês estão recebendo.
@@ -30,4 +29,4 @@ Hoje o nosso aplicativo apenas mostra na tela uma lista de tarefas que podemos a
 
 ![Screen Shot 2022-10-24 at 17 09 25](https://user-images.githubusercontent.com/71241157/197619179-cd81f78a-bf14-47bc-bb4f-3898416cc7b6.png)
 
-- Faça com que esse essa lista de tarefas completadas seja um Componente separado e apenas chame ele no `ListaTarefas.js`. Lembre-se de fazer a estilização adequada para que ele tenha a aparência pedida. Outra característica, segundo a imagem acima, é que as tarefas completadas não tem um botão de remover tarefa, lembre-se disso! 
+- Faça com que esse essa lista de tarefas completadas seja um Componente separado e apenas chame ele no `ListaTarefas.js`. Lembre-se de fazer a estilização adequada para que ele tenha a aparência pedida. Outra característica, segundo a imagem acima, é que as tarefas completadas não tem um botão de remover tarefa, lembre-se disso!
